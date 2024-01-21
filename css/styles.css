@@ -1,194 +1,211 @@
  body {
-  font-family: "Montserrat";
-  font-weight: 400;
-  text-align: center;
-}
+   font-family: "Montserrat";
+   font-weight: 400;
+   text-align: center;
+ }
 
-.container-fluid {
-  padding: 3% 15% 7%;
-}
+ .container-fluid {
+   padding: 3% 15% 7%;
+ }
 
-/******************************** Sections ***********************************/
-.colored-section {
-  background-color: #ff4c68;
-  color: #fff;
-}
+ /******************************** Sections ***********************************/
+ .colored-section {
+   background-color: #ff4c68;
+   color: #fff;
+ }
 
-.white-section {
-  background-color: #fff;
-}
+ .white-section {
+   background-color: #fff;
+ }
 
-/******************************* Title ************************************/
-#title {
-  text-align: left;
-}
+ /******************************* Title ************************************/
+ #title {
+   text-align: left;
+ }
 
-.navbar {
-  padding: 0 0 4.5rem;
-}
+ .navbar {
+   padding: 0 0 4.5rem;
+ }
 
-.navbar-brand {
-  font-family: "Ubuntu";
-  font-size: 2.5rem;
-  font-weight: bold;
-  margin-right: 50%;
-}
+ .navbar-brand {
+   font-family: "Ubuntu";
+   font-size: 2.5rem;
+   font-weight: bold;
+   margin-right: 50%;
+ }
 
-.nav-item {
-  padding: 0 50px 0 0;
-}
+ .nav-item {
+   padding: 0 50px 0 0;
+ }
 
-.nav-link {
-  font-size: 1.2rem;
-  font-family: "Montserrat";
-  font-weight: 400;
-}
+ .nav-link {
+   font-size: 1.2rem;
+   font-family: "Montserrat";
+   font-weight: 400;
+ }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Montserrat";
-  font-weight: 700;
-}
+ h1,
+ h2,
+ h3,
+ h4,
+ h5,
+ h6 {
+   font-family: "Montserrat";
+   font-weight: 700;
+ }
 
-.iphone {
-  transform: rotate(25deg);
-  width: 25%;
-  margin-top: 30px;
-  margin-left: 30px;
-  position: absolute;
-  right: 25%;
-}
+ .iphone {
+   transform: rotate(25deg);
+   width: 25%;
+   margin-top: 30px;
+   margin-left: 30px;
+   position: absolute;
+   right: 25%;
+ }
 
-.download-button {
-  margin: 8% 3% 3% 0;
-}
+ .download-button {
+   margin: 8% 3% 3% 0;
+ }
 
-/**************************************** Headings ****************************/
-.big-heading {
-  font-size: 3.5rem;
-  line-height: 1.5;
-  font-family: "Montserrat";
-  font-weight: 900;
-}
+ /**************************************** Headings ****************************/
+ .big-heading {
+   font-size: 3.5rem;
+   line-height: 1.5;
+   font-family: "Montserrat";
+   font-weight: 900;
+ }
 
-/********************************* Features ***********************************/
-#features {
-  padding: 7% 7%;
-  position: relative;
-}
+ /********************************* Features ***********************************/
+ #features {
+   padding: 7% 7%;
+   position: relative;
+ }
 
-.feature-row {
-  padding: 4.5%;
-}
+ .feature-row {
+   padding: 4.5%;
+ }
 
-.col-lg-4 {
-  padding: 2% 2%;
-}
+ .col-lg-4 {
+   padding: 2% 2%;
+ }
 
-.feature-title {
-  font-size: 1.5rem;
-}
+ .feature-title {
+   font-size: 1.5rem;
+ }
 
-p {
-  color: #8f8f8f;
-}
+ p {
+   color: #8f8f8f;
+ }
 
-.icon {
-  color: #ef8172;
-  margin-bottom: 1rem;
-}
+ .icon {
+   color: #ef8172;
+   margin-bottom: 1rem;
+ }
 
-.icon:hover {
-  color: #ff4c68;
-}
+ .icon:hover {
+   color: #ff4c68;
+ }
 
-/***************************************** Testimonials ***********************/
-#testimonials {
-  background-color: #ef8172;
-}
+ /***************************************** Testimonials ***********************/
+ #testimonials {
+   background-color: #ef8172;
+ }
 
-.carousel-item {
-  padding: 2% 15%;
-}
+ .carousel-item {
+   padding: 2% 15%;
+ }
 
-.testimonial-text {
-  font-size: 3rem;
-}
+ .testimonial-text {
+   font-size: 3rem;
+ }
 
-.testimonial-pic {
-  width: 20%;
-  border-radius: 100%;
-  margin: 5%;
-}
+ .testimonial-pic {
+   width: 20%;
+   border-radius: 100%;
+   margin: 5%;
+ }
 
-/******************************************* Press ****************************/
-#press {
-  background-color: #ef8172;
-  padding-bottom: 3%;
-}
+ /******************************************* Press ****************************/
+ #press {
+   background-color: #ef8172;
+   padding-bottom: 3%;
+ }
 
-.press-logo {
-  width: 15%;
-  margin: 10px 20px 30px;
-}
+ .press-logo {
+   width: 15%;
+   margin: 10px 20px 30px;
+ }
 
-/***************************************** Pricing ****************************/
-#pricing {
-  padding: 5%;
-}
+ /***************************************** Pricing ****************************/
+ #pricing {
+   padding: 5%;
+ }
 
-.price-heading {
-  font-size: 3rem;
-  line-height: 1.5;
-}
+ .price-heading {
+   font-size: 3rem;
+   line-height: 1.5;
+ }
 
-.price-text {
-  font-size: 3rem;
-  line-height: 1.5;
-}
+ .price-text {
+   font-size: 3rem;
+   line-height: 1.5;
+ }
 
-.pricing-column {
-  padding: 3% 2%;
-  text-align: center;
-}
+ .pricing-column {
+   padding: 3% 2%;
+   text-align: center;
+ }
 
-.dog-breed {
-  font-size: 1.5rem;
-}
+ .dog-breed {
+   font-size: 1.5rem;
+ }
 
-.btn-lab {
-  margin-top: 50px;
-}
+ .btn-lab {
+   margin-top: 50px;
+ }
 
-@media (max-width:1028px) {
-  body {
-    text-align: center;
-  }
 
-  .navbar {
-    text-align: left;
-  }
 
-  .iphone {
-    position: static;
-    transform: rotate(0);
-    width: 60%;
-  }
+ /****************************************** CTA *******************************/
+ #cta {
+   padding: 7% 15%;
+ }
 
-  .col-lg-4 {
-    padding-bottom: 7%;
-  }
-}
+ /****************************************** Footer ****************************/
+ #footer {
+   padding: 3% 15%;
+ }
 
-/****************************************** CTA *******************************/
-#cta {
-  padding: 7% 15%;
-}
+ .brands {
+   margin: 3%;
+ }
 
-/****************************************** Footer ****************************/
-#footer {
-  padding: 3% 15%;
-}
 
-.brands {
-  margin: 3%;
-}
+
+ @media only screen and (max-width: 767px) {
+
+   body {
+     text-align: center;
+   }
+
+   .navbar {
+     text-align: left;
+   }
+
+   .iphone {
+     position: static;
+     transform: rotate(0);
+     width: 60%;
+   }
+
+   .col-lg-4 {
+     padding-bottom: 7%;
+   }
+
+   #features {
+
+     display: flex;
+     width: 100%;
+     height: 100%;
+   }
+ }
